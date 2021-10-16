@@ -1,0 +1,14 @@
+.box-container {
+	display: grid;
+	grid-template-columns: repeat(16, 1fr);
+}
+
+.box {
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+	background: white;
+	text-align: center;
+	color: black;
+}
+
