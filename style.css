@@ -12,12 +12,12 @@
 	color: black;
 }
 
-#b-box {
-	align: center;
+#refresh {
+	display: inline-block;
 	border-width: 1px;
 	border-style: solid;
 	border-color: black;
-	background: white;
+	background-color: white;
 	text-align: center;
 	color: black;
 	
